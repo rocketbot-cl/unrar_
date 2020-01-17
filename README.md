@@ -5,6 +5,11 @@ Module to uncompress rar files
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/unrar_/master/example/unrar.png)
 
+<strong>Video Example:</strong>
+
+[![Unrar](https://img.youtube.com/vi/i3EgzHPQFoE/0.jpg)](https://www.youtube.com/watch?v=i3EgzHPQFoE "Unrar")
+
+
 <h2>Dependencies</h2>
 
 <ul>
